@@ -23,7 +23,7 @@ cd sail-with-docker
 ## Running the Examples
 
 Each chapter in the book has a corresponding directory in this repo. For
-example, the code examples for Chapter 1 are in the `chapter-1` directory.
+example, the code examples for Intro to Docker Basics are in the `Intro-to-Docker-Basics` directory.
 
 ## License
 
